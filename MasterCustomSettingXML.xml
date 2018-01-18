@@ -12,6 +12,33 @@
     </soapenv:Header>
     <soapenv:Body>
         <Create>
+            <sObjects xsi:type="APT_Apttus_Packages__c">
+                <Name>a5T1N0000004FDK</Name>
+                <CreatedBy.Id>0051N000005Jsw6QAC</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2017-12-22T10:32:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0051N000005Jsw6QAC</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2017-12-22T10:32:45.000+0000</LastModifiedDate>
+                <APT_AptContractConfigIntegration__c>9.87</APT_AptContractConfigIntegration__c>
+                <APT_ApttusApprovalsManagement__c>8.388</APT_ApttusApprovalsManagement__c>
+                <APT_ApttusCPQAdmin__c>2.30</APT_ApttusCPQAdmin__c>
+                <APT_ApttusCPQApi__c>9.60</APT_ApttusCPQApi__c>
+                <APT_ApttusCPQApprovalsManagement__c>6.67</APT_ApttusCPQApprovalsManagement__c>
+                <A1PT_ApttusConfigurationandPricing__c>9.1149</A1PT_ApttusConfigurationandPricing__c>
+                <APT_ApttusContractDocuSignIntegration__c>2.28</APT_ApttusContractDocuSignIntegration__c>
+                <APT_ApttusContractManagement__c>8.361</APT_ApttusContractManagement__c>
+                <APT_ApttusDealMaximizerSetup__c>7.42</APT_ApttusDealMaximizerSetup__c>
+                <APT_ApttusDealMaximizer__c>6.6</APT_ApttusDealMaximizer__c>
+                <APT_ApttusDocuSignApi__c>3.58</APT_ApttusDocuSignApi__c>
+                <APT_ApttusProposalManagement__c>8.135</APT_ApttusProposalManagement__c>
+                <APT_ApttusQuoteDocuSignIntegration__c>2.18</APT_ApttusQuoteDocuSignIntegration__c>
+                <APT_ApttusQuoteProposalAssetIntegration__c>6.14</APT_ApttusQuoteProposalAssetIntegration__c>
+                <APT_ApttusQuoteProposalConfigIntegr__c>9.197</APT_ApttusQuoteProposalConfigIntegr__c>
+                <APT_ApttusXAuthorDesignerForExcel__c>1.9</APT_ApttusXAuthorDesignerForExcel__c>
+                <APT_ApttusXAuthorForExcel__c>4.40.1</APT_ApttusXAuthorForExcel__c>
+                <APT_QuotePropApprovalsManagement__c>6.3</APT_QuotePropApprovalsManagement__c>
+            </sObjects>
             <sObjects xsi:type="Apttus_Billing__BillingSystemProperties__c">
                 <Name>System Properties</Name>
                 <CreatedBy.Id>0051N000005Jsw6QAC</CreatedBy.Id>
